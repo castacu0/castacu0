@@ -11,7 +11,8 @@
 
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 
-My name is Cesar Castanon A. and I'm a future software engineer. I'm from the US and Mexico, living in Mexico, and currently working as a French & English Teacher. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Cesar Castanon A. and I'm a future software engineer. I'm from the US and Mexico, living in Mexico, and currently working as a French & English Teacher.
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Personal Blog & Writing
 
@@ -27,11 +28,13 @@ Apart from teaching and coding, I also maintain a blog - You can find my persona
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+![castacu's GitHub stats](https://github-readme-stats.vercel.app/api?username=castacuhazra&theme=dark&show_icons=true)
+
+<a href="https://github.com/castacu0/castacu0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castacu0&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/castacu0/castacu0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castacu0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
