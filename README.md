@@ -1,15 +1,13 @@
-### Hi there 👋
-- 🔭 I’m currently working on: MySql
-- 💬 Ask me about: Politics and World History
-- 🌱 I’m currently learning: Python
-- ⚡ Fun fact: I prefer speaking in French than in English
-
-
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://raw.githubusercontent.com/castacu0/castacu0/master/readme_header.png "Header")](https://cesarwritingchallenge.blogspot.com/)
 
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
+
+- 🔭 I’m currently working on: MySql
+- 💬 Ask me about: Politics and World History
+- 🌱 I’m currently learning: Python
+- ⚡ Fun fact: I prefer speaking in French than in English
 
 My name is Cesar Castanon A. and I'm a future software engineer. I'm from the US and Mexico, living in Mexico, and currently working as a French & English Teacher.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
@@ -20,15 +18,10 @@ Apart from teaching and coding, I also maintain a blog - You can find my persona
 
 ## 🔧 Abilities, Technologies, & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-![castacu's GitHub stats](https://github-readme-stats.vercel.app/api?username=castacuhazra&theme=dark&show_icons=true)
 
 <a href="https://github.com/castacu0/castacu0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castacu0&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -37,13 +30,13 @@ Apart from teaching and coding, I also maintain a blog - You can find my persona
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=castacu0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/castacu0/blueblog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castacu0&repo=blueblog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/castacu0/learningpython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castacu0&repo=learningpython&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
