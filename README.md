@@ -4,9 +4,10 @@
 
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working with: Jupyter Notebooks
+- 🔭 I’m currently working with: Tableau and Excel 
+- 
 - 💬 Ask me about: Politics and World History
-- 🌱 I’m learning: Python
+- 🌱 I’m learning: Jupyter Notebooks
 - ⚡ Fun fact: I prefer speaking in French than in English
 - 🎭 My favorite hobby is writing
 - 🌄 And, my favorite hobbit is Sam
