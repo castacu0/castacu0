@@ -4,13 +4,13 @@
 
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working with: Tableau and Excel 
+- 🔭 I’m currently working with: Tableau, Python, and R
 - 🌱 I love using: Notion, Jupyter Notebooks, Slack, and Github
 
 - 💬 Ask me about: Politics and World History
 - ⚡ Fun fact: I prefer speaking in French than in English
 - 🎭 My favorite hobby is writing
-- 🌄 And, my favorite book is Dune (and The Lord of the Rings)
+- 🌄 And, my favorite book is Dune (and The Lord of the Rings series)
 
 My name is Cesar Castanon A. and I'm a future software engineer. I'm from the US and Mexico, living in Mexico, and currently working as a French & English Teacher. 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
