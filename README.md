@@ -5,7 +5,7 @@
 
 My name is Cesar Castanon A and I'm a future software engineer. I'm from the US and Mexico, and currently working as a French & English Teacher and focusing all my time to my tech abilities.
 
-- 🔭 I’m currently learning: Tableau, Python, and R
+- 🔭 I’m currently learning: Tableau and Python
 - 🌱 I love using: Notion, Jupyter Notebooks, Slack, and Github
 - 💬 Ask me about: Politics and World History
 - ⚡ Random fact: I'm an LGBTQ+ and Pro-Migration supporter
@@ -40,7 +40,7 @@ Apart from teaching. I also have a blog - You can find my personal writings on m
 
 
 <a href="https://github.com/castacu0/python_practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castacu0&repo=python_practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=castacu0&repo=personal_python_db&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
