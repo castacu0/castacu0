@@ -1,20 +1,22 @@
-[![Header](https://raw.githubusercontent.com/castacu0/castacu0/master/readme_header.png "Header")](https://cesarwritingchallenge.blogspot.com/)
+[![Header](https://raw.githubusercontent.com/castacu0/castacu0/master/readme_header.png "Header")](https://cesarcastanona.com/)
 
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 (He / Him / His)
 
-My name is Cesar Castanon A and I'm a future software engineer. I'm from the US and Mexico, and currently working as a French & English Teacher and focusing all my time to my tech abilities.
+Hi, I’m Cesar. Python Junior Developer into Data Science who enjoys using Git (and GitHub), Slack, and working with Jupyter Notebooks. I’m probably an Expert Googler (searcher), and I grew up in online communities and forums. I’m also a Mexican/American guy living in Mexico City, Mexico.
 
-- 🔭 I’m currently learning: Tableau and Python
+My experience includes teaching tech, python programming, data visualization in Tableau, customer service, trilingual writing, and public speaking.
+
+- 🔭 I’m currently working with: Linux, Tableau, and Python
 - 🌱 I love using: Notion, Jupyter Notebooks, Slack, and Github
 - 💬 Ask me about: Politics and World History
-- ⚡ Random fact: I'm an LGBTQ+ and Pro-Migration supporter
+- ⚡ I would like to learn: nginX, FastAPI, and professional Docker 
 - 🎭 My favorite hobby is writing and collecting Postcards
-- 🌄 And, my favorite book is Dune (and The Lord of the Rings series)
+- 🌄 And, my favorite books are Children of Dune, LOTR THe Two Towers, and Project Hail Mary
 
  
 
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or in my personal website [cesarcastanona.com](https://cesarcastanona.com/).
 
 
 ## &#x270d; Personal Blog & Writing
@@ -23,7 +25,11 @@ Apart from teaching. I also have a blog - You can find my personal writings on m
 
 ## 🔧 Abilities, Technologies, & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -62,6 +68,9 @@ Apart from teaching. I also have a blog - You can find my personal writings on m
 [1]: https://twitter.com/castacu0
 [2]: https://github.com/castacu0
 [3]: https://www.linkedin.com/in/castacu0/
+
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 
 
 <!-- Resources IN CASE YOU NEED THEM! -->
