@@ -3,16 +3,16 @@
 # Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 (He / Him / His)
 
-Hi, I’m Cesar. Python Junior Developer into Data Science who enjoys using Git (and GitHub), Slack, and working with Jupyter Notebooks. I’m probably an Expert Googler (searcher), and I grew up in online communities and forums. I’m also a Mexican/American guy living in Mexico City, Mexico.
+Hi, this is [Cesar Castanon A](https://cesarcastanona.com/), & I'm a Mexican/American immigrant living in Munster, France. Currently migrating. Also, I'm a Python Junior Developer into Data Science who enjoys using Git (& GitHub), Slack, working with Jupyter Notebooks, & an Ubuntu Distro.   
 
-My experience includes teaching tech, python programming, data visualization in Tableau, customer service, trilingual writing, and public speaking.
+My experience includes teaching tech, python programming, data visualization in Tableau, customer service, advisory in the Mexican Senate, trilingual writing, & public speaking. I'm currently studying Systems Engineering. I'd like to become an Aerodynamics Performance Engineer.
 
 - 🔭 I’m currently working with: Linux, Tableau, and Python
 - 🌱 I love using: Notion, Jupyter Notebooks, Slack, and Github
 - 💬 Ask me about: Politics and World History
 - ⚡ I would like to learn: nginX, FastAPI, and professional Docker 
-- 🎭 My favorite hobby is writing and collecting Postcards
-- 🌄 And, my favorite books are Children of Dune, LOTR THe Two Towers, and Project Hail Mary
+- 🎭 My favorite hobby is writing and collecting postcards
+- 🌄 And, my favorite books are Children of Dune, LOTR The Two Towers, and Project Hail Mary
 
  
 
