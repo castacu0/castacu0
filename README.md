@@ -1,34 +1,25 @@
 [![Header](https://raw.githubusercontent.com/castacu0/castacu0/master/readme_header.png "Header")](https://cesarcastanona.com/)
 
-# Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
+# Salut, Qué onda, أهلاً, Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 (He / Him / His)
 
-Hi, this is [Cesar Castanon A](https://cesarcastanona.com/), & I'm a Mexican/American immigrant living in Munster, France. Currently migrating. Also, I'm a Python Junior Developer into Data Science who enjoys using Git (& GitHub), Slack, working with Jupyter Notebooks, & an Ubuntu Distro.   
+Hi, this is Cesar Castanon A, & I'm a Mexican-American immigrant living in Cairo, Egypt. Currently learning Arabic. Data science and logistics are my passions 📖    
 
-My experience includes teaching tech, python programming, data visualization in Tableau, customer service, advisory in the Mexican Senate, trilingual writing, & public speaking. I'm currently studying Systems Engineering. I'd like to become an Aerodynamics Performance Engineer.
+My experience includes teaching tech, data visualization in Tableau, customer service, advisory in the Mexican Senate, trilingual writing, & public speaking. I'm currently writing a documentary book about the Middle East.  
 
-- 🔭 I’m currently working with: Linux, Tableau, and Python
-- 🌱 I love using: Notion, Jupyter Notebooks, Slack, and Github
+- 🔭 I’m currently working with: Arabic Calligraphy, Islamic Decoration, Abjad Writing System
+- 🌱 Words I love: Notion, Linux, Tableau, Python, Jupyter Notebooks, Slack
 - 💬 Ask me about: Politics and World History
 - ⚡ I would like to learn: nginX, FastAPI, and professional Docker 
 - 🎭 My favorite hobby is writing and collecting postcards
 - 🌄 And, my favorite books are Children of Dune, LOTR The Two Towers, and Project Hail Mary
+- 🚆 One professional dream, I want to be an Aerodynamics Performance Engineer to work at NASA
 
  
 
-You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], or in my personal website [cesarcastanona.com](https://cesarcastanona.com/).
-
-
 ## &#x270d; Personal Blog & Writing
 
-Apart from teaching. I also have a blog - You can find my personal writings on my website at [Writing Blog](https://cesarwritingchallenge.blogspot.com/) .
-
-## 🔧 Abilities, Technologies, & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
+Apart from teaching. I also have a blog - You can find my personal writings on my website at [Writing Blog](https://cesarcastanona.blogspot.com/)
 
 
 ## &#x1f4c8; GitHub Stats
