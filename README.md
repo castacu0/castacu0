@@ -3,23 +3,17 @@
 # Salut, Qué onda, أهلاً, Hello, my friends! <img src="https://raw.githubusercontent.com/castacu0/castacu0/master/wave.gif" width="30px">
 (He / Him / His)
 
-Hi, this is Cesar Castanon A, & I'm a Mexican-American immigrant living in Cairo, Egypt. Currently learning Arabic. Data science and logistics are my passions 📖    
+Hi, this is Cesar Castanon A, & I'm a Mexican-American immigrant living in Berkeley, CA, US 🌁
 
-My experience includes teaching tech, data visualization in Tableau, customer service, advisory in the Mexican Senate, trilingual writing, & public speaking. I'm currently writing a documentary book about the Middle East.  
+My experience includes teaching tech in France, Egypt, Mexico, and Canada (as a local) as well as public speaking, data visualization, advisory in the Mexican Senate, & trilingual writing
 
-- 🔭 I’m currently working with: Arabic Calligraphy, Islamic Decoration, Abjad Writing System
-- 🌱 Words I love: Notion, Linux, Tableau, Python, Jupyter Notebooks, Slack
-- 💬 Ask me about: Politics and World History
-- ⚡ I would like to learn: nginX, FastAPI, and professional Docker 
-- 🎭 My favorite hobby is writing and collecting postcards
-- 🌄 And, my favorite books are Children of Dune, LOTR The Two Towers, and Project Hail Mary
-- 🚆 One professional dream, I want to be an Aerodynamics Performance Engineer to work at NASA
+I'm currently writing a histocal book about the Middle East & taking Machine Learning courses at Stanford University.
+I consider myself a passionate about data science, NLP & logistics 📖   
 
- 
 
 ## &#x270d; Personal Blog & Writing
 
-Apart from teaching. I also have a blog - You can find my personal writings on my website at [Writing Blog](https://cesarcastanona.blogspot.com/)
+This is my blog - You can find my personal writings (outdated since I started the book) on my website at [Writing Blog](https://cesarcastanona.blogspot.com/)
 
 
 ## &#x1f4c8; GitHub Stats
