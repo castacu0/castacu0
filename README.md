@@ -3,7 +3,7 @@
 
 # Hi, I'm Cesar! ☁️
 
-I am a Cloud Data Engineer and Systems Architect whose foundation in technology was established early. Raised by a Computer Science educator, my path evolved from early digital design (Photoshop) into complex architectural modeling, Machine Learning (Stanford CS229), and data logistics.
+I am a Published Author and Cloud Data Engineer (AI Systems Architect) whose foundation in technology was established early. Raised by a Computer Science educator, my path evolved from early digital design (Photoshop) into complex architectural modeling, Machine Learning (Stanford CS229), and data logistics.
 
 Having lived and operated across six countries (Egypt, France, the US, Mexico, Brazil, and Canada), I specialize in building systems that transcend borders.
 
@@ -23,7 +23,7 @@ Whether orchestrating field operations data for a US congressional campaign or e
 
 My recent experience has also focused on leading teams and managing projects from a technical perspective.
 
-* Author of a historical fiction book (2022-2026)
+* Author of a historical fiction book (2022-2026) Postcards Folding Worlds: Lost in Transit https://a.co/d/05bvCql9
 * Technical Strategy & Roadmapping
 * Multilingual Team Leadership & Mentoring
 * Project Planning & Execution
